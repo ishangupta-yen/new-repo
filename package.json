@@ -1,0 +1,19 @@
+{
+  "name": "new-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishangupta-yen/new-repo.git"
+  },
+  "author": "i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishangupta-yen/new-repo/issues"
+  },
+  "homepage": "https://github.com/ishangupta-yen/new-repo#readme"
+}
